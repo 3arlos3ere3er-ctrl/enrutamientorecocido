@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local input data and generated outputs
+*.xlsx
+convergencia.png
